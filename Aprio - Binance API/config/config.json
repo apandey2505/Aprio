@@ -1,0 +1,17 @@
+{
+  "development": {
+    "username": "user3",
+    "password": "password",
+    "database": "historicalDatabase",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "APIKEY": "BDmtmH5unsZYBD8Se7TC7XfeAdp3BbQzKACNjJX1AwVbp3JLNaQmPdpuH1n6bgXO",
+    "APISECRET": "DaAX4BxzYFHIPUEKo9TXy6EhwQWHKo3srg4swBZXSnup0FjctBMGRpYZewGRt1nA"
+  },
+  "variables": {
+    "startDate": "2019-06-22",
+    "endDate": "2019-06-23",
+    "currencySymbol": "EOSBTC",
+    "interval": "5m"
+  }
+}

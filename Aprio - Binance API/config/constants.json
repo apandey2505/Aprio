@@ -1,0 +1,17 @@
+{
+  "array": [
+    "date",
+    "open",
+    "high",
+    "low",
+    "close",
+    "volume",
+    "closeTime",
+    "assetVolume",
+    "trades",
+    "buyBaseVolume",
+    "buyAssetVolume",
+    "ignored"
+  ],
+  "oneDayInSecs": 86400000
+}
